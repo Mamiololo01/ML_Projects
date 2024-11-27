@@ -1,2 +1,3 @@
 # ML_Projects
-Repositories for all machine learning projects
+
+Repositories for all machine learning projects.
